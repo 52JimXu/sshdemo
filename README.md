@@ -12,6 +12,8 @@
 
 
 ![](http://v7.jimxu.top/images/1568516302425.png)
+
+
 之后改为3.几的 版本就好了
 
 ### sessionFactory配置的class问题
