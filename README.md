@@ -7,9 +7,9 @@
 
 ### Spring-orm使用了5.02版本，hibernate使用3.6.10版本
 
-![avatar](spring-orm-error.png)
+![](http://v7.jimxu.top/images/1568516285453.png)
 然后5.02的Spring-orm不支持hibernate3，它只有hibernate5
-![avatar](spring-orm5.02-error.png)
+![](http://v7.jimxu.top/images/1568516302425.png)
 之后改为3.几的 版本就好了
 
 ### sessionFactory配置的class问题
