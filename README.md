@@ -9,6 +9,8 @@
 
 ![](http://v7.jimxu.top/images/1568516285453.png)
 然后5.02的Spring-orm不支持hibernate3，它只有hibernate5
+
+
 ![](http://v7.jimxu.top/images/1568516302425.png)
 之后改为3.几的 版本就好了
 
